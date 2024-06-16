@@ -1,0 +1,11 @@
+.appHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #2a2a2a;
+  margin-bottom: 20px;
+}
+
+.container {
+  color: red;
+}

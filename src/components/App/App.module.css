@@ -1,0 +1,12 @@
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+  min-width: 1170px;
+}
+
+.mySuperIcon {
+  color: orangered;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
